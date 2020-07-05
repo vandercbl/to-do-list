@@ -1,0 +1,6 @@
+# ignorando todos os arquivos js da raiz
+/*.js
+# ignorando todos os arquivos de node_modules
+node_modules
+# ignorando todos os arquivos da pasta dist
+dist
